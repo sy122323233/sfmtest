@@ -1,0 +1,23 @@
+matplotlib==3.5.1
+mayavi @ file:///D:/mayavi_install_source/mayavi-4.7.1%2Bvtk82-cp37-cp37m-win_amd64.whl
+numpy==1.21.5
+opencv-contrib-python==4.5.4.60
+opencv-python==4.5.4.60
+packaging==21.3
+Pillow==8.4.0
+pyface==7.3.0
+Pygments==2.10.0
+pyparsing==3.0.6
+PyQt4 @ file:///D:/mayavi_install_source/PyQt4-4.11.4-cp37-cp37m-win_amd64.whl
+python-dateutil==2.8.2
+scipy==1.7.3
+six==1.16.0
+traits @ file:///D:/mayavi_install_source/traits-6.3.2-cp37-cp37m-win_amd64.whl
+traitsui==7.2.1
+typing_extensions==4.0.1
+VTK @ file:///D:/mayavi_install_source/VTK-8.2.0-cp37-cp37m-win_amd64.whl
+
+
+后面加了@的符合是先下载对应的.whl文件然后本地安装的
+mayavi安装教程，网上有很多，这里贴一个：https://zhuanlan.zhihu.com/p/385308168
+.whl下载地址也贴一个：https://www.lfd.uci.edu/~gohlke/pythonlibs/
